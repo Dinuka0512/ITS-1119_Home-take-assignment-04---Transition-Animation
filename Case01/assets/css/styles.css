@@ -1,0 +1,27 @@
+.navigation{
+    width: 150px;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: darkred;
+    border-top-right-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-top: 10px;
+    margin-left: -100px;
+    transition-duration: 1.51s;
+}
+
+nav{
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.navigation:hover{
+    margin-left: 0;
+}
