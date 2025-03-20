@@ -30,17 +30,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/Welcome/OneDrive/Documents/Projects/Seccond Semester/IOT/Assignments/Assignment04/Case01/assets/css",
+    "last_opened_file_path": "C:/Users/Welcome/OneDrive/Documents/Projects/Seccond Semester/IOT/Assignments/Assignment04",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Welcome\OneDrive\Documents\Projects\Seccond Semester\IOT\Assignments\Assignment04" />
       <recent name="C:\Users\Welcome\OneDrive\Documents\Projects\Seccond Semester\IOT\Assignments\Assignment04\Case01\assets\css" />
       <recent name="C:\Users\Welcome\OneDrive\Documents\Projects\Seccond Semester\IOT\Assignments\Assignment04\lib" />
     </key>
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742470669873</updated>
-      <workItem from="1742470671290" duration="3496000" />
+      <workItem from="1742470671290" duration="6401000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,66 @@
+:root{
+    --btnidth : 55vw;
+    --borderwidth : 3vw;
+    --fontsize : 10vw;
+
+}
+
+body{
+    background-color: royalblue;
+}
+
+div{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: var(--btnidth);
+    height: var(--btnidth);
+    background-color: dimgray;
+    border-radius: 50%;
+    font-size: var(--fontsize);
+    color: white;
+    border: var(--borderwidth) solid white;
+    border-top-color: #ff253a;
+    transition-duration: 1.15s;
+}
+
+#btn:hover{
+    animation-name: rotateBorder;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+}
+
+@keyframes rotateBorder{
+    0%{
+        border-top-color: #ff253a;
+    }
+
+    25%{
+        border-top-color: white;
+        border-right-color: #ff253a;
+    }
+
+    50%{
+        border-right-color: white;
+        border-bottom-color: #ff253a;
+    }
+
+    75%{
+        border-bottom-color: white;
+        border-left-color: #ff253a;
+    }
+
+    100%{
+        border-left-color: white;
+        border-top-color: #ff253a;
+    }
+}
