@@ -1,0 +1,59 @@
+:root{
+    --width : 200px;
+    --heigth : 100px;
+}
+
+#border{
+    width: var(--width);
+    height: var(--heigth);
+    background-color: whitesmoke;
+}
+
+#box{
+    width: 200px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 20px;
+    animation-name: rotate;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes rotate {
+    0%{
+        margin-top: 0;
+        margin-left: 0;
+        background-color: orange;
+        transform: rotate(360deg);
+    }
+
+    25%{
+        margin-top: 0;
+        margin-left: calc(100vw - var(--width));
+        background-color: yellow;
+        transform: rotate(180deg);
+    }
+
+    50%{
+        margin-top: calc(100vh - var(--heigth));
+        margin-left: calc(100vw - var(--width));
+        background-color: #ff253a;
+        transform: rotate(360deg);
+    }
+
+    75%{
+        margin-left: 0;
+        margin-right: calc(100vw - var(--width));
+        margin-top: calc(100vh - var(--heigth));
+        background-color: deeppink;
+        transform: rotate(180deg);
+    }
+
+    100%{
+        margin-right: calc(100vw - var(--width));
+        margin-bottom: calc(100vh - var(--heigth));
+        background-color: orange;
+        transform: rotate(360deg);
+    }
+}
