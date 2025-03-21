@@ -1,0 +1,30 @@
+div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+
+    width: 0px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    border: darkred solid 4px;
+
+    animation-name: waterDrop;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes waterDrop {
+    from{
+        width: 0;
+    }
+
+    to{
+        width: 20vw;
+        opacity: 0;
+    }
+}
