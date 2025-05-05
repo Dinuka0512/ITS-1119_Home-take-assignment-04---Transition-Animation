@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16b2c618-9e70-45e0-9ac6-eb51e24d5802" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Case04/assets/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case04/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case05/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case05/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case05/assets/images/slide1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case05/assets/images/slide2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case05/assets/images/slide3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case05/assets/images/slide4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,26 +35,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "C:/Users/Welcome/OneDrive/Documents/Projects/Seccond Semester/IOT/Assignments/Assignment04",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Welcome/OneDrive/Documents/Projects/Seccond Semester/IOT/Assignments/Assignment04/Case05/assets/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Welcome\OneDrive\Documents\Projects\Seccond Semester\IOT\Assignments\Assignment04\Case05\assets\images" />
       <recent name="C:\Users\Welcome\OneDrive\Documents\Projects\Seccond Semester\IOT\Assignments\Assignment04" />
       <recent name="C:\Users\Welcome\OneDrive\Documents\Projects\Seccond Semester\IOT\Assignments\Assignment04\Case01\assets\css" />
       <recent name="C:\Users\Welcome\OneDrive\Documents\Projects\Seccond Semester\IOT\Assignments\Assignment04\lib" />
@@ -64,7 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1742470669873</updated>
       <workItem from="1742470671290" duration="10536000" />
-      <workItem from="1742545974046" duration="1886000" />
+      <workItem from="1742545974046" duration="8829000" />
+      <workItem from="1742565045036" duration="20000" />
+      <workItem from="1742622675801" duration="17000" />
     </task>
     <servers />
   </component>
